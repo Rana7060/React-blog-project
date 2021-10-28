@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My html/CSS learning journey . . .",
+      "body": "I started learning HTML and CSS in August 2021, I was already familiar with some keywords, this was the easiest part, I only spent a week learning the basics . . .",
+      "author": "Rana",
+      "id": 1
+    },
+    {
+      "title": "Javascript Time",
+      "body": "This was the hardest part of all, there was a lot of new information and ways of thinking, data structures and algorithms took most of my time, I spent a month learning the basics . . .",
+      "author": "Walid",
+      "id": 2
+    },
+    {
+      "title": "React Library On The Way !",
+      "body": "To days ago I started studying React. It seems easy till now, I will keep you updated! ",
+      "author": "Sami",
+      "id": 3
+    }
+  ]
+}
