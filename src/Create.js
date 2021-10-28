@@ -29,7 +29,7 @@ const Create = () => {
     <div className="create">
       <h2>Add A New Blog</h2>
       <form onSubmit={handleSubmit}>
-        <label>The Blog Title</label>
+        <label>Blog Title:</label>
         <input
           type="text"
           required
